@@ -1,0 +1,12 @@
+.navbar ul {
+  list-style: none;
+  display: flex;
+  justify-content: flex-start;
+  padding-left: 3px;
+  padding-right: 3px;
+  background-color: rgb(43, 91, 221);
+  color: gray;
+}
+.navbar ul li {
+  padding-left: 20px;
+}
